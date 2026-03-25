@@ -30,6 +30,6 @@ build/
 coverage/
 
 # IDE files
-
+/node_modules/
 .vscode/
 .idea/
